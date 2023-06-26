@@ -1,0 +1,60 @@
+{
+   "vendorMasterDetails":[
+      {
+         "vendorId":"FAC-3709",
+         "vendorIdSerialNumber":"3709",
+         "vendorName":"R K TRANSLOGISTICS",
+         "vendorType":"1002",
+         "vendorCategory":"1",
+         "subsidiary":"",
+         "phone":"9154147954",
+         "mobile:":"9390309198",
+         "email":"rktl@rktranslogistics.com",
+         "web":"www.rktranslogistics.com",
+         "isActive":"TRUE",
+         "cin":"0",
+         "tan":"0",
+         "tds":"0",
+         "isActiveGc":"",
+         "isActiveOrm":"",
+         "terms":"",
+         "incoTerms":"",
+         "comments":"",
+         "contactDetails":[
+            {
+               "name":"R K TRANS",
+               "email":""
+            }
+         ],
+         "addressDetails":[
+            {
+               "addressLine1":"Door No.R K House ,4-14,Nirmala College Road",
+               "addressLine2":"Atmakur Village, Mangalagiri",
+               "city":"Guntur",
+               "state":"Andhra Pradesh",
+               "country":"India",
+               "zip":"522503"
+            }
+         ],
+         "bankAccountDetails":[
+            {
+               "groupId":"FAC-11",
+               "groupCode":"FAC-10",
+               "panNumber":"CNAPR4537A",
+               "bankName":"ICICI Bank",
+               "accountType":"Savings",
+               "accountNumber":"56020405020",
+               "ifscCode":"84759749797",
+               "micrCode":"",
+               "branch":"",
+               "gstin":"37CNAPR4537A1Z6",
+               "msme":"0",
+               "legacyId":"",
+               "autoGenId":"Ven-3709",
+               "password":"Vendor@1234",
+               "gstNo":""
+            }
+         ]
+      }
+   ]
+}
